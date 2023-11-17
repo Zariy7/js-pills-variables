@@ -18,7 +18,7 @@ console.log(circle);
 // 3
 let name;
 name = 'Carlo';
-console.log(name);
+//console.log(name);
 name = 'Marco';
 console.log(name);
 //'name' viene considerato deprecato perché dichiararlo top-level va a intaccare il fatto che é una variabile nominata specialmente per i browser e VSC ti fa notare questa cosa
