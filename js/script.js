@@ -12,7 +12,7 @@ console.log(PI);
 
 // 2/C
 let radius = 8;
-circle = 8 * 2 * PI;
+let circle = 8 * 2 * PI;
 console.log(circle);
 
 // 3
