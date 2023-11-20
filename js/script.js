@@ -33,5 +33,7 @@ console.log(greet);
 //non puoi ridichiarare una variabile
 
 // 4/C
-greet = greet + " " + "Come stai?";
+/* greet = greet + " " + "Come stai?";
+console.log(greet); */
+greet = `${greet} Come stai?`;
 console.log(greet);
