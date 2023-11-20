@@ -27,3 +27,11 @@ console.log(name);
 let greet = 'Ciao, Mondo!';
 console.log(greet);
 
+// 4/B
+//let greet = 'Come stai, Mondo?';
+//console.log(greet);
+//non puoi ridichiarare una variabile
+
+// 4/C
+greet = greet + " " + "Come stai?";
+console.log(greet);
