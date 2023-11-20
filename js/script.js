@@ -22,3 +22,8 @@ name = 'Carlo';
 name = 'Marco';
 console.log(name);
 //'name' viene considerato deprecato perché dichiararlo top-level va a intaccare il fatto che é una variabile nominata specialmente per i browser e VSC ti fa notare questa cosa
+
+// 4
+let greet = 'Ciao, Mondo!';
+console.log(greet);
+
