@@ -37,3 +37,18 @@ console.log(greet);
 console.log(greet); */
 greet = `${greet} Come stai?`;
 console.log(greet);
+
+/* CONDITIONALS */
+
+let comparison;
+let str1 = prompt('Inserire stringa:');
+let str2 = prompt('Inserire stringa:');
+
+if (str1 === str2){
+    comparison = true;
+}
+else{
+    comparison = false;
+}
+
+console.log(comparison);
