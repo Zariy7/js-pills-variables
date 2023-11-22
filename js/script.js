@@ -40,11 +40,24 @@ console.log(greet);
 
 /* CONDITIONALS */
 
-let comparison;
+/* let comparison;
 let str1 = prompt('Inserire stringa:');
 let str2 = prompt('Inserire stringa:');
 
 if (str1 === str2){
+    comparison = true;
+}
+else{
+    comparison = false;
+}
+
+console.log(comparison); */
+
+let num1 = 1;
+let num2 = '1';
+let comparison;
+
+if (num1 == num2){
     comparison = true;
 }
 else{
