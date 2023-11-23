@@ -79,3 +79,4 @@ console.log(numbers);
 
 let fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya'];
 console.log(fruits);
+console.log(fruits.length);
