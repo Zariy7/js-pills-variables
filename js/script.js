@@ -80,3 +80,16 @@ console.log(numbers);
 let fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya'];
 console.log(fruits);
 console.log(fruits.length);
+
+let num = parseInt(prompt('Inserisci un numero per la sequenza di Fibbonacci.'));
+
+let a = 0, b = 1, c;
+let count = 0;
+
+while(count < num){
+    c = a + b;
+    a = b;
+    b = c;
+    console.log(c);
+    count++;
+}
