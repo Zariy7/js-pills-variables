@@ -93,3 +93,17 @@ while(count < num){
     console.log(c);
     count++;
 }
+
+function HelloWorld(){
+    console.log('Ciao Mondo!');
+}
+
+HelloWorld();
+
+function Sum(x, y){
+    let sum = x + y;
+    return sum;
+}
+
+let result = Sum(10, 9);
+console.log(result);
