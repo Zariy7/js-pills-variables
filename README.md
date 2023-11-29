@@ -72,3 +72,6 @@ Definire una funzione che accetti due numeri in input e ne faccia la somma
 
 **Esercizio 2/B**
 Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato
+
+**Esercizio 1/A**
+Dichiara una funzione chiamata getOneStringFromTwo che prenda come argomenti due stringhe e ritorni come un'unica stringa formata dalle due stringhe separate da uno spazio.

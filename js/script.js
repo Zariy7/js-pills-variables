@@ -107,3 +107,12 @@ function Sum(x, y){
 
 let result = Sum(10, 9);
 console.log(result);
+
+function getOneStringFromTwo(x, y){
+    return x + y;
+}
+
+let stringOne = "Hello ";
+let stringTwo =  "World!";
+
+console.log(getOneStringFromTwo(stringOne, stringTwo));
