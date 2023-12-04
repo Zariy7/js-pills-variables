@@ -117,12 +117,19 @@
 
 // console.log(getOneStringFromTwo(stringOne, stringTwo));
 
-setTimeout(function(){
-    alert("Ciao Mondo!");
-}, 3000);
+// setTimeout(function(){
+//     alert("Ciao Mondo!");
+// }, 3000);
 
-let i = 0;
-setInterval(function(){
-    i++;
-    console.log(i);
-}, 1000);
+// let i = 0;
+// setInterval(function(){
+//     i++;
+//     console.log(i);
+// }, 1000);
+
+let persona = {
+    nome: 'Federico',
+    cognome: 'Cigliero',
+}
+
+console.log(persona);

@@ -86,3 +86,8 @@ Definire un timer che dopo 3 secondi mostri un alert con scritto "Ciao a tutti"
 
 **Esercizio 2/A**
 Ad ogni secondo incrementare un contatore che parte da 0 di uno e mostrarlo con i console.log
+
+<!-- OBJECTS -->
+
+**Esercizio 1/A**
+Definite un oggetto persona con nome e cognome
