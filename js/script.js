@@ -133,3 +133,4 @@ let persona = {
 }
 
 console.log(persona);
+console.log(persona.nome);

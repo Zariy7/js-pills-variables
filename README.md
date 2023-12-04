@@ -91,3 +91,6 @@ Ad ogni secondo incrementare un contatore che parte da 0 di uno e mostrarlo con 
 
 **Esercizio 1/A**
 Definite un oggetto persona con nome e cognome
+
+**Esercizio 1/B**
+Richiamare la prorpietà nome dell'oggetto definito nell'esercizio precedente
